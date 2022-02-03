@@ -1,2 +1,0 @@
-URL repo GitHub: https://github.com/simoneb00/applicazioneSIngleton
-URL SonarCloud: https://sonarcloud.io/project/overview?id=simoneb00_applicazioneSIngleton
